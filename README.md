@@ -1,4 +1,4 @@
-##<h1 align="center">Hi there! my name is freddy!</h1>
+##<h1 align="center">Hi there! I'm freddy!</h1>
 <h3 align="center">I am a discord bot developer and web developer!</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=izac999" alt="izac999" /></a> </p>
