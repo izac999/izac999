@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=izac999" alt="izac999" /></a> </p>
 
-- 📫 Contact me on Discord: **freddy#0380**
+- 📫 Contact me on Discord: **freddy#6969**
 
 <h3 align="left">Languages and Tools:</h3>
 
